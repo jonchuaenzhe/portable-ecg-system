@@ -3,6 +3,7 @@ Jan 2020 - Dec 2020
 
 12-Lead ECGs are usually bulky and mounted on carts. This project in collaboration with NUH Emergency Department developed a portable version of it which displayed ECG tracings on a web-app to increase the efficiency of clinicians and comfort of patients. Take a look at the video below for a short demo of the system.
 
+https://user-images.githubusercontent.com/59247141/186677922-14ab5f33-408b-436f-be4c-0afafe76f2a2.mp4
 
 # EG3301R: Web-application to Visualise Vitals Signs Data
 This repository houses both the client and server components of the MERN stack.
