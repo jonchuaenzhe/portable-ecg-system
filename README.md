@@ -5,12 +5,15 @@ Jan 2020 - Dec 2020
 
 https://user-images.githubusercontent.com/59247141/186677922-14ab5f33-408b-436f-be4c-0afafe76f2a2.mp4
 
+## Device
 
+The Schematics and Layout of the circuit board design can be viewed directly in the "device" folder as PDF files.
 
-# EG3301R: Web-application to Visualise Vitals Signs Data
-This repository houses both the client and server components of the MERN stack.
+"main.cpp" contains the firmware for the device, which runs on an ESP32 chip. It requires some commonly used ESP32 libraries not included in the "device" folder.
 
 ## Web Dashboard
+
+The "app" folder houses both the client and server components of the MERN stack.
 
 ### Installation
 
